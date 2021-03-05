@@ -1,4 +1,4 @@
-# Ch 1 - Overview of Quantum Computing
+# Ch 1 - Quantum Computing in a Nutshell
 
 - Applications of quantum computing
 - Quantum computing as a service
@@ -8,7 +8,7 @@
 
 ### Ressources
 
-[PDF slides](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch1/Ch1-Quantum-Computing-in-a-Nutshell.pdf)
+[PDF slides](https://github.com/bfedrici-phd/QC-CPE-2021/blob/main/Ch1/Ch1-Quantum-Computing-in-a-Nutshell.pdf)
 
 ### References
 
