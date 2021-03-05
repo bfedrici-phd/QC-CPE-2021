@@ -6,7 +6,7 @@
 
 ### Ressources
 
-[PDF slides](https://github.com/bfedrici-phd/QC-2020-CPE/blob/master/Ch2/Ch2-Quantum-Mechanics-for-Quantum-Computing.pdf)
+[PDF slides](https://github.com/bfedrici-phd/QC-CPE-2021/blob/main/Ch2/Ch2-Quantum-Mechanics-for-Quantum-Computing.pdf)
 
 ### References
 
