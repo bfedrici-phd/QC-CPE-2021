@@ -9,7 +9,7 @@
 
 ### Ressources
 
-[PDF slides]()
+[PDF slides](https://github.com/bfedrici-phd/QC-CPE-2021/blob/main/Ch3/Ch3-Quantum-Instruction-Sets-%26-Quantum-Circuits%20(copie).pdf)
 
 ### References
 
