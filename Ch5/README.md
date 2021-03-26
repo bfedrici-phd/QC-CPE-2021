@@ -1,4 +1,4 @@
-# Ch 11 - No Cloning, Teleportation and Superdense Coding
+# Ch 5 - No Cloning, Teleportation and Superdense Coding
 - No cloning theorem
 - Quantum teleportation
 - Superdense coding
