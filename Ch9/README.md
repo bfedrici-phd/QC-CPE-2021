@@ -8,7 +8,7 @@
 
 ### Ressources
 
-- [PDF slides]()
+- [PDF slides](https://github.com/bfedrici-phd/QC-CPE-2021/blob/main/Ch9/Ch9-Benchmarking-Quantum-Computers.pdf)
 
 
 ### References
