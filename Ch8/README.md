@@ -6,7 +6,7 @@
 
 ### Ressources
 
-- [PDF slides]()
+- [PDF slides](https://github.com/bfedrici-phd/QC-CPE-2021/blob/main/Ch8/Ch8-Noise-in-Quantum-Computation.pdf)
 
 ### References
 
