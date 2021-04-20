@@ -1,4 +1,4 @@
-# Ch 10 - The Quantum Fourier Transform
+# Ch 6 - The Quantum Fourier Transform
 - Frequencies in a QPU register
 - Real and complexe QFT inputs
 - QFT of non-trivial signals 
